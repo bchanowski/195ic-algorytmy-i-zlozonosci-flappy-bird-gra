@@ -1,0 +1,11 @@
+C:\Users\R\Desktop\flappyalpha\flappyalpha\bin\Debug\flappyalpha.exe.config
+C:\Users\R\Desktop\flappyalpha\flappyalpha\bin\Debug\flappyalpha.exe
+C:\Users\R\Desktop\flappyalpha\flappyalpha\bin\Debug\flappyalpha.pdb
+C:\Users\R\Desktop\flappyalpha\flappyalpha\obj\Debug\flappyalpha.csprojAssemblyReference.cache
+C:\Users\R\Desktop\flappyalpha\flappyalpha\obj\Debug\flappyalpha.Form1.resources
+C:\Users\R\Desktop\flappyalpha\flappyalpha\obj\Debug\flappyalpha.Gra.resources
+C:\Users\R\Desktop\flappyalpha\flappyalpha\obj\Debug\flappyalpha.Properties.Resources.resources
+C:\Users\R\Desktop\flappyalpha\flappyalpha\obj\Debug\flappyalpha.csproj.GenerateResource.cache
+C:\Users\R\Desktop\flappyalpha\flappyalpha\obj\Debug\flappyalpha.csproj.CoreCompileInputs.cache
+C:\Users\R\Desktop\flappyalpha\flappyalpha\obj\Debug\flappyalpha.exe
+C:\Users\R\Desktop\flappyalpha\flappyalpha\obj\Debug\flappyalpha.pdb
